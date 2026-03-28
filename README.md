@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
-A RESTful Task List API demonstrating **Clean Architecture** with pluggable storage backends.
+A RESTful Task List API demonstrating **Clean Architecture** (Hexagonal / Ports & Adapters) with pluggable storage backends.
 
 ## What This Project Shows
 
